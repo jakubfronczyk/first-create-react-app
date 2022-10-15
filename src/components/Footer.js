@@ -1,8 +1,8 @@
 import React from 'react';
 
-function Footer() {
+function Footer(props) {
     return(
-        <footer className="footer">
+        <footer className={props.darkMode ? "light" : ""}>
             <small>© 2022 Jakub Fronczyk development. All rights reserved.</small>
         </footer>
     )
