@@ -10,4 +10,4 @@ I'm really focused and optimistic to be better and better Font End Develeoper...
 
 Project prewiev:
 
-![](https://github.com/jakubfronczyk/first-create-react-app/blob/main/src/images/light-mode.png)![](https://github.com/jakubfronczyk/first-create-react-app/blob/main/src/images/dark-mode.png)
+![](https://github.com/jakubfronczyk/first-create-react-app/blob/main/src/images/dark-light-mode.png)
